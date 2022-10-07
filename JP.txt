@@ -7,20 +7,13 @@ Aimer (エメ)		https://open.qobuz.com/artist/3054510
 DAOKO (ダヲコ)		https://open.qobuz.com/artist/1571606
 DJ OKAWARI		https://open.qobuz.com/artist/1432020
 久石让 (ひさいし じょう)		https://open.qobuz.com/artist/62948
-澤野弘之 (さわの ひろゆき)		https://open.qobuz.com/artist/649342
 SawanoHiroyuki[nZk] (泽野弘之)		https://open.qobuz.com/artist/4073748
 LiSA (织部里沙)		https://open.qobuz.com/artist/67794
 花澤香菜 (はなざわ かな)		https://open.qobuz.com/artist/1226062
-矢野立美 (やの たつみ)		https://open.qobuz.com/artist/774666
 生物股长 (いきものがかり)		https://open.qobuz.com/artist/4268437
-和田薫 (わだかおる)		https://open.qobuz.com/artist/21593
-牛尾憲輔 (agraph)		https://open.qobuz.com/artist/3568883
 當山みれい (当山真玲)		https://open.qobuz.com/artist/3232644
 ヨルシカ (Yorushika)		https://open.qobuz.com/artist/4595601
-KOKIA (吉田亚纪子)		https://open.qobuz.com/artist/427490
-高梨康治 (たかなし やすはる)		https://open.qobuz.com/artist/1044703
 GARNiDELiA (ガルニデリア)		https://open.qobuz.com/artist/3834730
-初音未来 (初音ミク)		https://open.qobuz.com/artist/1152689
 星野源 (ほしの げん)		https://open.qobuz.com/artist/3929261
 majiko (まじ娘)		https://open.qobuz.com/artist/3554311
 羽生まゐご		https://open.qobuz.com/artist/7947306
@@ -30,15 +23,12 @@ yama (ヤマ)		https://open.qobuz.com/artist/1519136
 Yunomi (ゆのみ)		https://open.qobuz.com/artist/3396730
 坂本龙一 (さかもと りゅういち)		https://open.qobuz.com/artist/18429
 ONE OK ROCK (ワンオクロック)		https://open.qobuz.com/artist/2320535
-川井宪次 (かわい けんじ)		https://open.qobuz.com/artist/145128
 Reol (れをる)		https://open.qobuz.com/artist/4147341
 m.o.v.e		https://open.qobuz.com/artist/1373451
 S.E.N.S. (神思者)		https://open.qobuz.com/artist/984169
 cinnamons		https://open.qobuz.com/artist/9413143
 King Gnu (キング・ヌー)		https://open.qobuz.com/artist/3216819
 小野丽莎 (小野リサ)		https://open.qobuz.com/artist/118443
-やまだ豊 (山田豊)		https://open.qobuz.com/artist/3958274
-V.A.		https://open.qobuz.com/artist/353325
 Goose house (グースハウス)		https://open.qobuz.com/artist/2374965
 神山羊 (かみやま よう)		https://open.qobuz.com/artist/6289343
 EGOIST (エゴイスト)		https://open.qobuz.com/artist/1681893
@@ -53,13 +43,8 @@ Da-iCE		https://open.qobuz.com/artist/1984069
 山冈晃 (AKIRA YAMAOKA)		https://open.qobuz.com/artist/178811
 mabanua (マバヌア)		https://open.qobuz.com/artist/1296563
 菅田将晖 (すだ まさき)		https://open.qobuz.com/artist/3849530
-大黒摩季 (おおぐろ まき)		https://open.qobuz.com/artist/708396
 爱缪 (あいみょん)		https://open.qobuz.com/artist/3010665
-大野克夫 (おおの かつお)		https://open.qobuz.com/artist/3342297
-六三四 (Musashi)		https://open.qobuz.com/artist/861314
-横山克 (よこやま まさる)		https://open.qobuz.com/artist/1101834
 Uru (うる)		https://open.qobuz.com/artist/428791
-増田俊郎 (ますだ としお)		https://open.qobuz.com/artist/1165450
 SPYAIR (スパイエアー)		https://open.qobuz.com/artist/3573513
 秦基博 (はたもとひろ)		https://open.qobuz.com/artist/801944
 岸部真明 (Masaaki Kishibe)		https://open.qobuz.com/artist/3992344
@@ -73,17 +58,12 @@ Che'Nelle (シェネル)		https://open.qobuz.com/artist/104563
 RSP (Real Street Performance)		https://open.qobuz.com/artist/802217
 RAM WIRE (ラムワイヤー)		https://open.qobuz.com/artist/7289004
 安室奈美恵 (あむろ なみえ)		https://open.qobuz.com/artist/2299771
-横山菁児 (横山菁儿)		https://open.qobuz.com/artist/3924902
 嵐 (あらし)		https://open.qobuz.com/artist/3387010
 MAISONdes		https://open.qobuz.com/artist/8962824
 辻亚弥乃 (つじあやの)		https://open.qobuz.com/artist/10046915
 Nujabes (せば じゅん)		https://open.qobuz.com/artist/824289
-ReoNa		https://open.qobuz.com/artist/801981
 ずっと真夜中でいいのに。 (永远是深夜有多好｡)		https://open.qobuz.com/artist/12094450
-浜口史郎 (はまぐち しろう)		https://open.qobuz.com/artist/4474839
 GONTITI (ゴンチチ)		https://open.qobuz.com/artist/3933312
-supercell		https://open.qobuz.com/artist/2342726
-雨宮天 (あまみや そら)		https://open.qobuz.com/artist/3843968
 遊助 (上地雄辅)		https://open.qobuz.com/artist/428814
 CHANMINA (ちゃんみな)		https://open.qobuz.com/artist/2893868
 向井太一 (むかい たいち)		https://open.qobuz.com/artist/3893390
@@ -91,22 +71,15 @@ CHANMINA (ちゃんみな)		https://open.qobuz.com/artist/2893868
 谷村新司 (たにむら しんじ)		https://open.qobuz.com/artist/221856
 妹尾武 (Takeshi Senoo)		https://open.qobuz.com/artist/592740
 Matt Cab		https://open.qobuz.com/artist/1798960
-林友树 (林ゆうき)		https://open.qobuz.com/artist/8229166
 Teriyaki Boyz (テリヤキ・ボーイズ)		https://open.qobuz.com/artist/624336
 YUI (ユイ)		https://open.qobuz.com/artist/417750
-Field of View		https://open.qobuz.com/artist/5650392
 徳永英明 (とくなが ひであき)		https://open.qobuz.com/artist/269956
 麻枝准 (まえだ じゅん)		https://open.qobuz.com/artist/2037029
-CHiCO with HoneyWorks		https://open.qobuz.com/artist/4837357
-岩崎琢 (いわさき たく)		https://open.qobuz.com/artist/3679766
 ピノキオピー (匹诺曹P)		https://open.qobuz.com/artist/3376204
-HoneyWorks		https://open.qobuz.com/artist/2542579
 7!! (Seven Oops)		https://open.qobuz.com/artist/7289335
 Neru		https://open.qobuz.com/artist/117095
 西野加奈 (西野カナ)		https://open.qobuz.com/artist/801710
 Ken Arai (ケン アライ)		https://open.qobuz.com/artist/2591497
-中村由利子 (なかむら ゆりこ)		https://open.qobuz.com/artist/1736421
-水濑祈 (水瀬いのり)		https://open.qobuz.com/artist/14787840
 sasakure.UK (ササクレ・ユーケイ)		https://open.qobuz.com/artist/2857427
 まふまふ (mafumafu)		https://open.qobuz.com/artist/3324922
 ClariS (クラリス)		https://open.qobuz.com/artist/3574155
@@ -116,13 +89,9 @@ Lily Sayonara (リリィ、さよなら。)		https://open.qobuz.com/artist/44716
 梶浦由记 (かじうら ゆき)		https://open.qobuz.com/artist/802004
 三浦大知 (みうら だいち)		https://open.qobuz.com/artist/3294934
 FLOW (フロウ)		https://open.qobuz.com/artist/111891
-藤井风 (ふじい かぜ)		https://open.qobuz.com/artist/12574319
-hideyuki hashimoto (橋本秀幸)		https://open.qobuz.com/artist/3924744
 REOL (れをる)		https://open.qobuz.com/artist/4147341
-奥戸巴寿 (Okudo Tomohisa)		https://open.qobuz.com/artist/1762839
 Ayase		https://open.qobuz.com/artist/7734737
 Snow Man (スノーマン)		https://open.qobuz.com/artist/2045295
-Relax α Wave		https://open.qobuz.com/artist/2119750
 安田レイ (安田丽)		https://open.qobuz.com/artist/2827220
 Shing02 (安念真吾)		https://open.qobuz.com/artist/1374850
 SILENT SIREN (サイレント・サイレン)		https://open.qobuz.com/artist/2997259
@@ -130,11 +99,9 @@ SILENT SIREN (サイレント・サイレン)		https://open.qobuz.com/artist/299
 DECO*27 (デコ・ニーナ)		https://open.qobuz.com/artist/3284769
 鈴木雅之 (すずきまさゆき)		https://open.qobuz.com/artist/193036
 鹭巣诗郎 (さぎす しろう)		https://open.qobuz.com/artist/12692497
-梅林茂 (うめばやし しげる)		https://open.qobuz.com/artist/46875
 whiteeeen (ホワイティーン)		https://open.qobuz.com/artist/2296470
 KANA-BOON (カナブーン)		https://open.qobuz.com/artist/3369674
 ハナエ (Hanae)		https://open.qobuz.com/artist/956198
-STAR☆ANIS		https://open.qobuz.com/artist/7036654
 宮本浩次 (みやもと ひろじ)		https://open.qobuz.com/artist/1001083
 優里 (ゆうり)		https://open.qobuz.com/artist/7783726
 Kalafina (カラフィナ)		https://open.qobuz.com/artist/1371069
@@ -166,7 +133,6 @@ May'n (メイン)		https://open.qobuz.com/artist/8032499
 nobodyknows+ (ノーバディノウズ)		https://open.qobuz.com/artist/3931101
 stereopony (ステレオポニー)		https://open.qobuz.com/artist/3546355
 miwa (みわ)		https://open.qobuz.com/artist/802140
-STEREO DIVE FOUNDATION		https://open.qobuz.com/artist/13632766
 瑞葵 (mizuki)		https://open.qobuz.com/artist/1080859
 牧野由依 (まきの ゆい)		https://open.qobuz.com/artist/7290873
 佐藤康夫 (き乃はち)		https://open.qobuz.com/artist/2721483
@@ -176,14 +142,12 @@ Mrs. GREEN APPLE		https://open.qobuz.com/artist/2298334
 椎名林檎 (しいな りんご)		https://open.qobuz.com/artist/139728
 BACK-ON (バックオン)		https://open.qobuz.com/artist/788889
 祖堅正慶 (そけん まさよし)		https://open.qobuz.com/artist/1795481
-Kiroro (キロロ)		https://open.qobuz.com/artist/9659989
 りりあ。		https://open.qobuz.com/artist/8147473
 松谷卓 (まつたに すぐる)	https://open.qobuz.com/artist/3285547
 地球防衛団 (エアーズ)		https://open.qobuz.com/artist/3181022
 Anly (アンリ)		https://open.qobuz.com/artist/3868198
 伊藤由奈 (いとう ゆな)		https://open.qobuz.com/artist/3982893
 キタニタツヤ		https://open.qobuz.com/artist/3981487
-削除 (Sakuzyo)	https://open.qobuz.com/artist/3402156
 春奈るな (春奈露娜)		https://open.qobuz.com/artist/2860523
 ØMI (登坂广臣)		https://open.qobuz.com/artist/8907325
 小原好美 (こはら このみ)		https://open.qobuz.com/artist/11281573
@@ -192,8 +156,6 @@ BUMP OF CHICKEN (バンプ・オブ・チキン)		https://open.qobuz.com/artist/
 Spitz (スピッツ)		https://open.qobuz.com/artist/744481
 竹内まりや (竹内玛利亚)		https://open.qobuz.com/artist/193042
 乃木坂46		https://open.qobuz.com/artist/3507060
-ChouCho (ちょうちょ)		https://open.qobuz.com/artist/9527244
-松澤由美 (まつざわ ゆみ)		https://open.qobuz.com/artist/3396865
 X JAPAN (エックス・ジャパン)		https://open.qobuz.com/artist/2962565
 ZAQ (ザック)		https://open.qobuz.com/artist/4119973
 Cö shu Nie (コシュニエ)		https://open.qobuz.com/artist/3603864
@@ -211,7 +173,6 @@ B.B.Queens (ビービークイーンズ)		https://open.qobuz.com/artist/719340
 Lefty hand cream		https://open.qobuz.com/artist/6466197
 JABBERLOOP (ジャバループ)		https://open.qobuz.com/artist/1818023
 Lucklife (ラックライフ)		https://open.qobuz.com/artist/3920717
-佐藤直纪 (さとう なおき)		https://open.qobuz.com/artist/698268
 安藤裕子 (あんどう ゆうこ)		https://open.qobuz.com/artist/3404206
 fhána (ファナ)		https://open.qobuz.com/artist/1980084
 无限开关 (スキマスイッチ)		https://open.qobuz.com/artist/11837677
@@ -227,7 +188,6 @@ Soul'd Out (ソウルド アウト)		https://open.qobuz.com/artist/3559693
 悠木碧 (ゆうき あおい)		https://open.qobuz.com/artist/4225855
 湘南乃風 (しょうなんのかぜ)		https://open.qobuz.com/artist/1071514
 [Alexandros] (アレキサンドロス)		https://open.qobuz.com/artist/344614
-See-Saw (跷跷板)		https://open.qobuz.com/artist/7635732
 BURNOUT SYNDROMES (バーンアウトシンドローム)		https://open.qobuz.com/artist/4323010
 40mP (40㍍P)		https://open.qobuz.com/artist/2143289
 富田美憂 (とみた みゆ)		https://open.qobuz.com/artist/8377937
@@ -235,7 +195,6 @@ BURNOUT SYNDROMES (バーンアウトシンドローム)		https://open.qobuz.com
 ROOKiEZ is PUNK'D (ルーキース イズ パンクト)		https://open.qobuz.com/artist/3910197
 山下達郎 (やました たつろう)		https://open.qobuz.com/artist/493932
 GUMI (グミ)		https://open.qobuz.com/artist/2278599
-光田康典 (みつだ やすのり)		https://open.qobuz.com/artist/178815
 Rie Fu (船越里惠)		https://open.qobuz.com/artist/802134
 Rin音		https://open.qobuz.com/artist/11838142
 n-buna (ナブナ)		https://open.qobuz.com/artist/3376211
@@ -247,15 +206,9 @@ DOES (ドーズ)		https://open.qobuz.com/artist/887999
 吉俣良 (よしまた りょう)		https://open.qobuz.com/artist/698264
 春畑道哉 (はるはた みちや)		https://open.qobuz.com/artist/618411
 GRANRODEO		https://open.qobuz.com/artist/3572440
-Audio Highs (オーディオ ハイズ)		https://open.qobuz.com/artist/3451784
 Perfume (电音香水)		https://open.qobuz.com/artist/592435
-有里知花 (ゆうり ちか)		https://open.qobuz.com/artist/301182
-Omoinotake (オモイノタケ)		https://open.qobuz.com/artist/3909864
-UNISON SQUARE GARDEN (ユニゾン・スクエア・ガーデン)
 触手猴 (まらしぃ)		https://open.qobuz.com/artist/7297893
 Jeku		https://open.qobuz.com/artist/2526110
-堤博明 (つつみ ひろあき)		https://open.qobuz.com/artist/3617488
-松本文紀 (まつもと ふみのり)		https://open.qobuz.com/artist/3395258
 HoneyComeBear		https://open.qobuz.com/artist/9752011
 wacci (ワッチ)		https://open.qobuz.com/artist/4121238
 絢香 (あやか)		https://open.qobuz.com/artist/506625
@@ -264,13 +217,9 @@ B'z (ビーズ)		https://open.qobuz.com/artist/9523415
 楠木灯 (楠木ともり)		https://open.qobuz.com/artist/7628623
 TrySail (トライセイル)		https://open.qobuz.com/artist/4362904
 HALCALI		https://open.qobuz.com/artist/802138
-TRIPLANE (トライプレイン)		https://open.qobuz.com/artist/5999903
 Galileo Galilei (ガリレオ・ガリレイ)		https://open.qobuz.com/artist/8799
-深澤秀行 (ふかさわ ひでゆき)		https://open.qobuz.com/artist/3924914
 森口博子 (はなむら ひろみ)		https://open.qobuz.com/artist/3409723
-伊東歌詞太郎 (いとう かしたろう)		https://open.qobuz.com/artist/3324924
 D-51		https://open.qobuz.com/artist/818228
-加藤达也 (かとう たつや)		https://open.qobuz.com/artist/3698765
 Mongol800 (モンゴル800)		https://open.qobuz.com/artist/801458
 sumika		https://open.qobuz.com/artist/1345815
 中川翔子 (なかがわ しょうこ)		https://open.qobuz.com/artist/1030395
@@ -280,38 +229,29 @@ GReeeeN (グリーン)		https://open.qobuz.com/artist/774197
 Fear, and Loathing in Las Vegas		https://open.qobuz.com/artist/3145052
 ASIAN KUNG-FU GENERATION (亚细亚功夫世代)		https://open.qobuz.com/artist/1342806
 れるりり (当社比P)		https://open.qobuz.com/artist/2264165
-そらる (soraru)		https://open.qobuz.com/artist/3268468
 rionos		https://open.qobuz.com/artist/2229560
 冈崎律子 (おかざき りつこ)		https://open.qobuz.com/artist/12648080
 東京事変		https://open.qobuz.com/artist/309042		https://open.qobuz.com/artist/11914365
-芳賀敬太 (はが けいた)		https://open.qobuz.com/artist/4360283
 槇原敬之 (まきはら のりゆき)		https://open.qobuz.com/artist/220913
 ORANGE RANGE (橘子新乐团)		https://open.qobuz.com/artist/149595
 铃木爱理 (すずき あいり)		https://open.qobuz.com/artist/5997964
 TWO-MIX		https://open.qobuz.com/artist/7659938
 松任谷由実 (まつとうや ゆみ)		https://open.qobuz.com/artist/587080
 平井堅 (ひらい けん)		https://open.qobuz.com/artist/192886
-Poppin'Party		https://open.qobuz.com/artist/8730760
 DISH// (ディッシュ)		https://open.qobuz.com/artist/3768065
 Lullatone (ララトーン)		https://open.qobuz.com/artist/799073
-DEEN		https://open.qobuz.com/artist/307319
 大槻真希 (大槻マキ)		https://open.qobuz.com/artist/2306585
 Superfly (スーパーフライ)		https://open.qobuz.com/artist/213202
 藤冈靛 (DEAN FUJIOKA)		https://open.qobuz.com/artist/3365884
-喜多郎 (Kitaro)		https://open.qobuz.com/artist/53311
 鬼束千寻 (鬼束ちひろ)		https://open.qobuz.com/artist/909629
 Yoshiki		https://open.qobuz.com/artist/421816
 山猿 (やまざる)		https://open.qobuz.com/artist/3918423
-菅野洋子 (かんの ようこ)		https://open.qobuz.com/artist/573327
 Ms.OOJA (ミス・オオジャ)		https://open.qobuz.com/artist/1984562
 岩崎良美 (いわさき よしみ)		https://open.qobuz.com/artist/3910710
-阿保刚 (あぼ たけし)		https://open.qobuz.com/artist/3470953
 松下優也 (まつした ゆうや)		https://open.qobuz.com/artist/5798728
 DEEP SQUAD		https://open.qobuz.com/artist/7470976
 RAISE A SUILEN		https://open.qobuz.com/artist/14778242
 Who-ya Extended (フーヤエクステンデッド)		https://open.qobuz.com/artist/6030541
-植松伸夫 (うえまつ のぶお)		https://open.qobuz.com/artist/178818
-巡音流歌 (巡音ルカ)		https://open.qobuz.com/artist/3287672
 MY FIRST STORY (マイ・ファースト・ストーリー)		https://open.qobuz.com/artist/4162630
 池赖广 (いけ よしひろ)		https://open.qobuz.com/artist/12340530
 葉加瀬太郎 (はかせ たろう)		https://open.qobuz.com/artist/251577
@@ -324,7 +264,6 @@ NiziU		https://open.qobuz.com/artist/7361753
 平原綾香 (ひらはら あやか)		https://open.qobuz.com/artist/1286341
 TeddyLoid (榊原テディ)		https://open.qobuz.com/artist/805939
 FictionJunction (フィクションジャンクション)		https://open.qobuz.com/artist/4648870
-Aqours (アクア)		https://open.qobuz.com/artist/13632771
 BLUE ENCOUNT (ブルーエンカウント)		https://open.qobuz.com/artist/3911758
 Foorin (フーリン)		https://open.qobuz.com/artist/3897820
 Angela Aki (アンジェラ・アキ)		https://open.qobuz.com/artist/801383
@@ -340,12 +279,10 @@ fox capture plan		https://open.qobuz.com/artist/2367575
 大貫妙子 (おおぬき たえこ)		https://open.qobuz.com/artist/220730
 MAN WITH A MISSION (マン ウィズ ア ミッション)		https://open.qobuz.com/artist/2931190
 TM NETWORK (ティーエム・ネットワーク)		https://open.qobuz.com/artist/7289039
-大岛满 (大島ミチル)		https://open.qobuz.com/artist/645845
 aiko (あいこ)		https://open.qobuz.com/artist/119326
 YURiKA		https://open.qobuz.com/artist/4461650
 色情涂鸦 (ポルノグラフィティ)		https://open.qobuz.com/artist/3911715
 末廣健一郎		https://open.qobuz.com/artist/3362535
-铃木实里 (鈴木みのり)		https://open.qobuz.com/artist/241962
 石川由依 (いしかわ ゆい)		https://open.qobuz.com/artist/957253
 佐咲纱花 (ささき さやか)		https://open.qobuz.com/artist/12732974
 ハルレオ (haruleo)		https://open.qobuz.com/artist/4460882
@@ -357,21 +294,16 @@ EXiNA (西沢幸奏)		https://open.qobuz.com/artist/4908406
 かめりあ (camellia)		https://open.qobuz.com/artist/2901092
 OKAMOTO'S (オカモトズ)		https://open.qobuz.com/artist/3475014
 安全地帯 (あんぜんちたい)		https://open.qobuz.com/artist/930514
-Orangestar (蜜柑星P)		https://open.qobuz.com/artist/5189400
 angela (アンジェラ)		https://open.qobuz.com/artist/107929
 JUJU (ジュジュ)		https://open.qobuz.com/artist/712673
 Robert de Boron (ロベルト・デ・ボロン)		https://open.qobuz.com/artist/589335
 豊崎愛生 (とよさき あき)		https://open.qobuz.com/artist/4610147
-千住明 (Senju Akira)		https://open.qobuz.com/artist/363812
 加藤ミリヤ (加藤米莉亚)		https://open.qobuz.com/artist/1431367
-小澤征爾 (小泽征尔)		https://open.qobuz.com/artist/34846
 福原美穂 (Fukuhara Miho)		https://open.qobuz.com/artist/752419
 CHIHIRO (チヒロ)		https://open.qobuz.com/artist/3250941
 Famishin		https://open.qobuz.com/artist/9721702
 KAT-TUN		https://open.qobuz.com/artist/9166484
 綾野ましろ (绫野真白)		https://open.qobuz.com/artist/3778197
-Pastel*Palettes		https://open.qobuz.com/artist/8821617
-平野義久 (ひらの よしひさ)		https://open.qobuz.com/artist/1846161
 加賀谷玲 (Kagaya Rei)		https://open.qobuz.com/artist/5120846
 CY8ER		https://open.qobuz.com/artist/8498572
 Mr.children (孩子先生)		https://open.qobuz.com/artist/7908274
@@ -391,5 +323,3 @@ Tani Yuuki		https://open.qobuz.com/artist/9614658
 上白石萌音 (かみしらいし もね)		https://open.qobuz.com/artist/4427251
 内田彩 (うちだ あや)		https://open.qobuz.com/artist/9295774
 日向坂46		https://open.qobuz.com/artist/4373741
-中川幸太郎		https://open.qobuz.com/artist/2083868
-镜音连 (鏡音レン)		https://open.qobuz.com/artist/4697198
