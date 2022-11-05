@@ -17,7 +17,7 @@
 斯美塔那 Bedřich Smetana Tidal	
 伯辽兹 Hector Berlioz Tidal	
 瓦格纳 Richard Wagner Tidal	
-拉赫玛尼诺夫 Sergei Rachmaninoff Tidal	
+拉赫玛尼诺夫 Sergei Rachmaninoff Tidal					done
 马勒 Gustav Mahler Tidal	
 海顿 Franz Joseph Haydn Tidal	
 勋伯格 Arnold Schoenberg Tidal	
